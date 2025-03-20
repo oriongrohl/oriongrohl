@@ -4,6 +4,8 @@
 - Speak both 🇺🇸 🇪🇸
 
 # Working with
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)<!--
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,js,html,css)](https://skillicons.dev)
+
+<!--
 **oriongrohl/oriongrohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
