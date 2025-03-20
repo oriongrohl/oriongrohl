@@ -4,8 +4,7 @@
 - Speak both 🇺🇸 🇪🇸
 
 # Working with
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+[My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
 <!--
 **oriongrohl/oriongrohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
