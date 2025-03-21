@@ -1,5 +1,5 @@
 ## Welcome I'm Eli 👋
-- 🔭 I’m currently working on a minecraft terror mod
+- 🔭 I’m currently working on a minecraft horror mod
 - 📚 App Development student
 - Speak both 🇺🇸 🇪🇸
 
