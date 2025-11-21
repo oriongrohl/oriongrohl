@@ -32,6 +32,7 @@
 
 | Repositorio | Descripción | Tecnologías |
 |-------------|-------------|-------------|
+| **[angular-to-do-list](https://github.com/oriongrohl/to-do-list)** | Ejercicios de programación en Angular | ![angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
 | **[angular-ejercicios-clase](https://github.com/oriongrohl/ejercicios_angular)** | Ejercicios de programación en Angular | ![angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
 | **[dart-ejercicios-clase](https://github.com/oriongrohl/ejercicios_dart)** | Ejercicios de programación en Dart | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
 | **[proyecto-java](https://github.com/oriongrohl/dinosauricvotecounter)** | Proyecto de bachillerato en java | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
