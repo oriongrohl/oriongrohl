@@ -12,7 +12,7 @@
 </div>
 
 ## 👩‍💻 Sobre mí
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/elianavillalobo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elianavillalobo/)
 
 - 📚 Estudiante de Desarrollo de Aplicaciones (2º DAM)
 - 💬 Bilingüe: 🇺🇸 Inglés & 🇪🇸 Español
