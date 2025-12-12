@@ -39,11 +39,3 @@
 | **[conteo de votos electoral](https://github.com/oriongrohl/dinosauricvotecounter)** | Proyecto de bachillerato | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
 
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=oriongrohl&show_icons=true&theme=radical&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=oriongrohl&layout=compact&theme=radical&hide_border=true)
-
-</div>
