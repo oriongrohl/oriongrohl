@@ -4,22 +4,18 @@
 -->
 
 <div align="center">
-![elianagithubreadme](elianagithubreadme.png)
-# ¡Hola! Soy Eliana 👋
-📚 Estudiante de Desarrollo de Aplicaciones (2º DAM) 💬 Bilingüe: 🇺🇸 Inglés y 🇪🇸 Español 🎯 JobSeeking
+<img src="./elianareadme.png" alt="Mi Nombre" width="100%">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elianavillalobo/)
 
+¡Hola! Soy estudiante de Desarrollo de Aplicaciones (2º DAM) - Bilingüe: 🇺🇸 Inglés y 🇪🇸 Español 🎯 JobSeeking
+<br><br>
+  
 [![My Skills](https://skillicons.dev/icons?i=java,python,ts,dart,angular,flutter,mysql,js,html,css,ubuntu,git,github,vscode,django)](https://skillicons.dev)
 
-![Banner](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 </div>
 
-## 👩‍💻 Sobre mí
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elianavillalobo/)
-
-- 📚 Estudiante de Desarrollo de Aplicaciones (2º DAM)
-- 💬 Bilingüe: 🇺🇸 Inglés & 🇪🇸 Español
-- 🎯 Actualmente trabajando en mi TFG, un gestor de fabricación de productos...
 
 ## 🛠️ Tecnologías que uso
 
@@ -63,6 +59,9 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse%20ide&logoColor=white)
 ![Dolibarr](https://img.shields.io/badge/Dolibarr-215887?style=for-the-badge&logo=dolibarr&logoColor=white)
+
+![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRnaXN1Mjk4dWo1NnpoYzJoM2dxNTB4dTI2YjM4cXdjbWprcWYzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif)
+
 
 </div>
 
